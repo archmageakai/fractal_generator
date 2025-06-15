@@ -1,9 +1,0 @@
-fractals available:
-mandelbrot set
-julia set (input for complex numbers values in set function)
-
-horizontal/vertical mirroring
-set speeds
-
-gif encoding
-https://github.com/jnordberg/gif.js
